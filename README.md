@@ -29,7 +29,7 @@ This project presents an interactive sales performance dashboard built using Exc
 ## Dashboard Preview
 
 ### Executive Summary View
-![Dashboard Overview](Screenshot 2026-03-31 104304.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Category & Region Analysis
-![Category Region Analysis](Screenshot 2026-03-31 104345.png)
+![Category Region Analysis](category_region_analysis.png)

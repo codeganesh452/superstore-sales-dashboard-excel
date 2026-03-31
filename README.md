@@ -26,6 +26,10 @@ This project presents an interactive sales performance dashboard built using Exc
 - Some sub-categories show strong sales but low profitability
 - Regional profit performance varies significantly
 
-## Project Preview
+## Dashboard Preview
 
-Dashboard screenshots are included above.
+### Executive Summary View
+![Dashboard Overview](Screenshot 2026-03-31 104304.png)
+
+### Category & Region Analysis
+![Category Region Analysis](Screenshot 2026-03-31 104345.png)
